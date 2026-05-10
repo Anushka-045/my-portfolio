@@ -190,7 +190,6 @@ const videoProjects = [
                     src={project.id}
                     width="1280"
                     height="720"
-                    cloudName="dqdviwmi3"
                   />
                 </div>
                 <div className="px-6">
